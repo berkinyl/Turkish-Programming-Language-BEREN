@@ -1,0 +1,5 @@
+sayi x = 10
+ise (x > 5
+sayi y = 20
+değilse
+sayi z = 30

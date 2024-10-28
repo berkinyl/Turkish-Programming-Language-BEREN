@@ -1,0 +1,8 @@
+sayi a = 5
+sayi b = 10
+ise (a > b)
+sayi c = 15
+değilse
+sayi c = 20
+sürece (a < b)
+a = a + 
